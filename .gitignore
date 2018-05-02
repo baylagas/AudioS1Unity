@@ -1,3 +1,4 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -32,3 +33,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#MacOS
+.DS_Store
